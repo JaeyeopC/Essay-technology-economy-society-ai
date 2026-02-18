@@ -3,7 +3,7 @@
 This essay was written for the course  
 
 <p align="center">
-<strong>Technology, Economy, Society</strong>
+<strong>Technology, Economy, Society (ED0038)</strong>
 </p>
 
 This essay presents a philosophical review of  
