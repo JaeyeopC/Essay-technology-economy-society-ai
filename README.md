@@ -7,7 +7,7 @@ This essay was written for the course
 </p>
 
 This essay presents a philosophical review of  
-[**Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability**]([https://link.springer.com/article/10.1007/s11948-019-00146-8](https://link.springer.com/article/10.1007/s11948-019-00146-8))  
+[**Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability** (PDF)](https://link.springer.com/content/pdf/10.1007/s11948-019-00146-8.pdf)  
 by Mark Coeckelbergh (2020).
 
 The review examines the philosophical foundations of responsibility in AI-driven systems, 
